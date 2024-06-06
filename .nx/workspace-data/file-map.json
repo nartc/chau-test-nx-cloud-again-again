@@ -1,0 +1,57 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.2.0",
+  "deps": {
+    "vite": "^5.2.0",
+    "nx": "19.2.0"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "chau-test-nx-cloud-again-again": [
+        {
+          "file": ".gitignore",
+          "hash": "2420557475928689279"
+        },
+        {
+          "file": "counter.js",
+          "hash": "16494677407720722467"
+        },
+        {
+          "file": "index.html",
+          "hash": "15969147254172844500"
+        },
+        {
+          "file": "javascript.svg",
+          "hash": "8148257050081513771"
+        },
+        {
+          "file": "main.js",
+          "hash": "7387072954709582281"
+        },
+        {
+          "file": "nx.json",
+          "hash": "5853787232271633651"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "13174496406832714763"
+        },
+        {
+          "file": "package.json",
+          "hash": "4113768783110694826"
+        },
+        {
+          "file": "public/vite.svg",
+          "hash": "16046085400642193116"
+        },
+        {
+          "file": "style.css",
+          "hash": "1470549144186381483"
+        }
+      ]
+    },
+    "nonProjectFiles": []
+  }
+}
